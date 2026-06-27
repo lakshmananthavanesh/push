@@ -1,1 +1,1 @@
-console.log("Tha.js loaded successfully!");
+console.log("Tha.js loaded successy!");
